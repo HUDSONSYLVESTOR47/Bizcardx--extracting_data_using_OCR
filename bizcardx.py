@@ -20,7 +20,7 @@ mycursor.execute('Use bizcard')
 
 # SETTING PAGE CONFIGURATIONS
 icon = Image.open("C:/Users/31syl/Desktop/dataharvesting/business-card.png")
-st.set_page_config(page_title="BizCardX: Extracting Business Card Data with OCR | By ARUNKUMAR BAIRAVAN",
+st.set_page_config(page_title="BizCardX: Extracting Business Card Data with OCR | By HUDSON SYLVESTOR",
                    page_icon=icon,
                    layout="wide",
                    initial_sidebar_state="expanded",
